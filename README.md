@@ -1,5 +1,10 @@
 # QuizPlatform
 
+## Intern Details
+
+- Name: Chetan Bhivate
+- Intern ID: CITS2466
+
 ## Overview
 
 QuizPlatform is a full-stack quiz application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It allows users to register, log in, attempt quizzes, and view their scores. Quiz data is stored in MongoDB and managed through REST APIs.
