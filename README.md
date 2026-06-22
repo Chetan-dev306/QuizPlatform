@@ -126,16 +126,16 @@ PORT=5000
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![login](screenshots/login.png.png)
 
 ### Register Page
-![Register](screenshots/register.png)
+![register](screenshots/register,png.png)
 
 ### Quiz Page
-![Quiz](screenshots/quiz.png)
+![quiz](screenshots/quiz.png.png)
 
 ### Result Page
-![Result](screenshots/result.png)
+![result](screenshots/result.png.png)
 
 ## Author
 
