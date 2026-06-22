@@ -123,6 +123,20 @@ PORT=5000
 * Timer-Based Quizzes
 * User Profile Management
 
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Register Page
+![Register](screenshots/register.png)
+
+### Quiz Page
+![Quiz](screenshots/quiz.png)
+
+### Result Page
+![Result](screenshots/result.png)
+
 ## Author
 
 Chetan Bhivate
